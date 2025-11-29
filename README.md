@@ -30,7 +30,7 @@
 - 🛒 [TiendatStore](https://tiendat23web.github.io/tiendatstore/) – Website bán hàng  
 - 🌿 [TiendatGarden](https://tiendatgarden.store/) – Web bán thực phẩm sạch (WordPress)  
 - 🎆 [PhaoHoa23](https://tiendat23web.github.io/phaohoa23/) – Hiệu ứng pháo hoa  
-- 💼 [Portfolio](https://portfolio-rho-gray-23.vercel.app/) – Hồ sơ cá nhân online  
+- 💼 [Portfolio](https://tien-datprofile.vercel.app/) – Hồ sơ cá nhân online  
 
 ---
 
